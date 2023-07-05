@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Ana 😁
+## Welcome to my Profile. I'm Ana. Nice to meet you! 😁
 
  <div>
    <a href="https://github.com/alp-lima">
@@ -15,6 +15,7 @@
  
  <br>
  
+### If you want to know more about my work experience, you can contact me on my E-mail or Linkedin! :)
  
 <div> 
   <a href = "mailto:alp.lima18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
