@@ -15,7 +15,7 @@
  
  <br>
  
-### If you want to know more about my work experience, you can contact me on my E-mail or Linkedin! :)
+### If you want to know more about my work experience, you can contact me on my E-mail or LinkedIn! :)
  
 <div> 
   <a href = "mailto:alp.lima18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
