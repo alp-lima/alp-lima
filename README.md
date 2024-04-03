@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/alp-lima">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alp-lima&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-   <img height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=alp-lima)"/>
+   <img height="180em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alp-lima&langs_count=8)"/>
 
 </div>
 <div style="display: inline_block"><br>
